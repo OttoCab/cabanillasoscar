@@ -17,3 +17,20 @@ html {
 .opaque{
   filter: brightness(0.4);
 }
+
+.imgCard img{
+  position: relative;
+  top: 5px;
+  left: 5px;
+  transition: 500ms;
+  border-radius: 5%;
+}
+
+.imgCard img:hover{
+  top: 0px;
+  left: 0px;
+  box-shadow: 5px 5px 5px 0px rgb(99, 99, 99);
+  /*DESENFOQUE
+  filter: blur(5px);*/
+
+}
