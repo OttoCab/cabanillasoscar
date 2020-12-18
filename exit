@@ -1,0 +1,120 @@
+[33mcommit cb35b20cffebe6eb5f2649b332ab6121fbba122a[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 8e5fc2d b317e18
+Author: Oscar Cabanillas <oskbanillas@gmail.com>
+Date:   Fri Dec 18 16:53:10 2020 -0300
+
+    Primer error con git, ya solucionado
+
+[33mcommit b317e18ca8c2b71c56da20148e46e7362c2f0918[m[33m ([m[1;32mportfolio[m[33m, [m[1;32mdev[m[33m)[m
+Author: Oscar Cabanillas <oskbanillas@gmail.com>
+Date:   Fri Dec 18 16:47:06 2020 -0300
+
+    Agregado el Portfolio y correcion de color de los botones
+
+[33mcommit 8180b8c7541f5661fedb1f889e3174e1ff2566b6[m[33m ([m[1;32mcontact[m[33m)[m
+Author: Oscar Cabanillas <oskbanillas@gmail.com>
+Date:   Fri Dec 18 13:28:51 2020 -0300
+
+    Se corrigio algunas cosas en contactos y para mergearlo
+
+[33mcommit 70770a597591dfb2b752362779fc5d1bae7fe2c6[m
+Author: Oscar Cabanillas <oskbanillas@gmail.com>
+Date:   Fri Dec 18 13:21:22 2020 -0300
+
+    Se termino la parte de contact
+
+[33mcommit 0116089173256df54dd0e689872ae91f74c9bf29[m
+Author: Oscar Cabanillas <oskbanillas@gmail.com>
+Date:   Fri Dec 18 12:32:41 2020 -0300
+
+    Agregada la seccion de Contacto y Educacion con ligeras correciones ortograficas en la pagina en general
+
+[33mcommit f4251ff8fb5a22559075bc648a6772d8f136f496[m
+Author: Oscar Cabanillas <oskbanillas@gmail.com>
+Date:   Thu Dec 17 18:06:54 2020 -0300
+
+    Se comenzo a armar la seccion de contacto
+
+[33mcommit 8e5fc2dee10f54d3684936ae458c369f1daa71cc[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Oscar Cabanillas <oskbanillas@gmail.com>
+Date:   Thu Dec 17 17:45:56 2020 -0300
+
+    Pequeños cambios en la rama master
+
+[33mcommit 57de57835adec2534b0d5f5965aa364795681ebf[m
+Author: Oscar Cabanillas <oskbanillas@gmail.com>
+Date:   Thu Dec 17 00:19:26 2020 -0300
+
+    Pequeñas correciones ortograficas
+
+[33mcommit 2ddee799532c0300ee45d94ffd25979b50720aab[m[33m ([m[1;32mskills[m[33m)[m
+Author: Oscar Cabanillas <oskbanillas@gmail.com>
+Date:   Tue Dec 15 17:10:20 2020 -0300
+
+    Agregado de tecnologias en la parte de skills
+
+[33mcommit 45ec1b5dc70f99929dbb405678c747bf1570ca4d[m[33m ([m[1;31morigin/skills[m[33m, [m[1;31morigin/dev[m[33m)[m
+Author: Oscar Cabanillas <oskbanillas@gmail.com>
+Date:   Tue Dec 15 16:26:45 2020 -0300
+
+    Correcciones ortograficas
+
+[33mcommit 1e88747dc2750befbe94f0377b0edf950b128711[m
+Author: Oscar Cabanillas <oskbanillas@gmail.com>
+Date:   Tue Dec 15 16:25:33 2020 -0300
+
+    Se agregaro un boton extra en la seccion de habilidades donde se muestra algo mas de informacion
+
+[33mcommit 2eef6645478901ec74512132bdd2dcb28b7c3f12[m
+Author: Oscar Cabanillas <oskbanillas@gmail.com>
+Date:   Tue Dec 15 16:10:30 2020 -0300
+
+    Se agrego la seccion Habilidades y un efecto con Css para un desplazamiento suave
+
+[33mcommit 2ce6a083919fcfa35c40193caa162c242a1d0669[m[33m ([m[1;32msobreMi[m[33m)[m
+Author: Oscar Cabanillas <oskbanillas@gmail.com>
+Date:   Mon Dec 14 22:05:32 2020 -0300
+
+    Correciones en la acentuacion en la seccio Sobre Mi
+
+[33mcommit 65ac15980072782605891e7829f72ea8af877f98[m
+Author: Oscar Cabanillas <oskbanillas@gmail.com>
+Date:   Mon Dec 14 21:53:29 2020 -0300
+
+    Pequeñas correciones en la seccion Sobre Mi
+
+[33mcommit a491804b6c7c6ca92195b3fb2c2953528c848f5b[m
+Author: Oscar Cabanillas <oskbanillas@gmail.com>
+Date:   Mon Dec 14 21:47:36 2020 -0300
+
+    Agregado la seccion Sobre Mi
+
+[33mcommit a66f61b3e3f481a04cb99515073891bcd2262131[m[33m ([m[1;32mencabezado[m[33m)[m
+Author: Oscar Cabanillas <oskbanillas@gmail.com>
+Date:   Mon Dec 14 06:25:32 2020 -0300
+
+    Agregado el diseño del encebezado con de perfil
+
+[33mcommit 04e194e29ee6d717924329889c469662da3cab5d[m
+Author: Oscar Cabanillas <oskbanillas@gmail.com>
+Date:   Sun Dec 13 21:13:28 2020 -0300
+
+    Correcion de errores
+
+[33mcommit 13ad253c0935f9bc2667a0c60138c40e518f566e[m
+Author: Oscar Cabanillas <oskbanillas@gmail.com>
+Date:   Sun Dec 13 21:04:07 2020 -0300
+
+    Se agrego el footer y se vincularon las redes correspondientes (linkedin y github)
+
+[33mcommit 37f5cbb9039be8cdfa02ec17b689155a077912a7[m
+Author: Oscar Cabanillas <oskbanillas@gmail.com>
+Date:   Sun Dec 13 20:25:13 2020 -0300
+
+    Agregado la interfaz del navbar
+
+[33mcommit d89bbebf554ffe491d93afafbcb26d5ab43e88f4[m
+Author: Oscar Cabanillas <oskbanillas@gmail.com>
+Date:   Sun Dec 13 16:06:58 2020 -0300
+
+    Se agregaron los archivos iniciales del proyecto CV
